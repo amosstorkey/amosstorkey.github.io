@@ -1,0 +1,188 @@
+BODY {
+MARGIN-TOP: 0;
+TOP:0;
+BORDER-TOP:0;
+BACKGROUND: white;
+COLOR: #101010;
+FONT-FAMILY: "Open Sans", "Helvetica Neue", arial, helvetica, "MS Sans Serif", sans-serif; z-index: 1;
+}
+
+#dummyrightmenu2 {
+    RIGHT: 4px; WIDTH: 165px; TOP: 72px; HEIGHT: 600px; POSITION: absolute; text-align: left;
+FONT-FAMILY: Verdana, arial, helvetica, "MS Sans Serif", sans-serif; z-index: 1;
+border-left: 2px solid #D0C8D0;
+}
+
+#dummyrightmenu {
+    RIGHT: 4px; WIDTH: 164px; TOP: 0px; HEIGHT: 644px; POSITION: absolute; text-align: left;
+FONT-FAMILY: "Verdana, arial, helvetica, "MS Sans Serif", sans-serif; BACKGROUND-COLOR: #F0E0F0; z-index: 0;
+}
+
+#dummytopmenu {
+    WIDTH: 98%; RIGHT: 12px; TOP: 0px; HEIGHT: 64px; POSITION: absolute; text-align: left;
+FONT-FAMILY: Verdana, arial, helvetica, "MS Sans Serif", sans-serif;  z-index: 2;
+border-bottom: 2px solid #D0C8D0; background-color: transparent;
+}
+
+#rightmenu {
+    RIGHT: 8px; WIDTH: 148px; TOP: 100px; HEIGHT: 540px; POSITION: absolute; text-align: left;
+FONT-FAMILY: "Verdana, arial, helvetica, "MS Sans Serif", sans-serif; BACKGROUND-COLOR: #F0E0F0; z-index: 2;
+border-bottom: 2px solid #D0C8D0;font-size: 0.7em;
+}
+
+
+#menu {TOP:65px; LEFT: 10px; WIDTH: 150px; POSITION: absolute; text-align: left;
+FONT-FAMILY: Verdana, arial, helvetica, "MS Sans Serif", sans-serif; FONT-SIZE: 1 em;
+font-weight: normal; line-height: 1.6em; text-transform: lowercase; background-color: #FFF6F0;
+border-left:4px solid #fff6f0;
+}
+
+#menu A {
+width: 100%;
+}
+
+#menu A:link {
+    COLOR: #333333; border-top: 1px solid #ffffff; border-bottom: 1px solid #fff6f0;
+}
+#menu A:visited {
+    COLOR: #666666; border-top: 1px solid #ffffff; border-bottom: 1px solid #fff6f0;
+}
+#menu A:hover {
+    COLOR: #222222; border-top: 1px solid #dddddd; border-bottom: 1px solid #dddddd;
+}
+#menu A:active {
+    COLOR: #888888; border-top: 1px solid #ddd0dd; border-bottom: 1px solid #ddd0dd;
+}
+#menu h1 {
+    FONT-FAMILY: Verdana, arial, helvetica, "MS Sans Serif", sans-serif; FONT-SIZE: 1 em;
+    FONT-WEIGHT: bold; FONT-SIZE:1.1em; MARGIN-TOP: 1em; MARGIN-BOTTOM: 0em;
+}
+
+
+#submenu {
+    LEFT: 5px; FONT-SIZE: 0.7em; TEXT-ALIGN: RIGHT; MARGIN-TOP: 5px; MARGIN-BOTTOM: 20px;
+}
+
+#submenu A:link {
+    COLOR: #555555;
+}
+#submenu A:visited {
+    COLOR: #888888;
+}
+#submenu A:hover {
+    COLOR: #AAAAAA;
+}
+#submenu A:active {
+    COLOR: #555555;
+}
+
+#menu2 {
+    LEFT: 0px; WIDTH: 10em;BOTTOM: 30px; POSITION: absolute; text-align: center;
+FONT-FAMILY: Verdana, arial narrow, arial, helvetica, "MS Sans Serif", sans-serif; FONT-SIZE: 0.8em;
+BACKGROUND: #
+}
+#menu2 A:link {
+    COLOR: #555555;
+}
+#menu2 A:visited {
+    COLOR: #555555;
+}
+#menu2 A:hover {
+    COLOR: #555555;
+}
+#menu2 A:active {
+    COLOR: #555555;
+}
+
+
+#title {position:absolute; TOP:10px; MARGIN-TOP:0px;
+WIDTH: 90%; RIGHT: 32px; text-align: right;text-transform: lowercase; z-index: 4;
+}
+
+#title H1 {
+    FONT-FAMILY:   Verdana, arial, helvetica, "MS Sans Serif", sans-serif; FONT-SIZE: 1 em; line-height: 1.4em;
+COLOR: #703060; MARGIN-TOP:0;
+}
+
+#title2 {
+    FONT-FAMILY:  Verdana, arial, helvetica, "MS Sans Serif", sans-serif; FONT-SIZE: 1 em; line-height: 1.6em;
+MARGIN-LEFT: 0px; MARGIN-TOP: 0pt; TOP:20px; LEFT:10px; position: absolute; text-transform:uppercase;
+}
+#title2 H2 {
+    FONT-FAMILY:  Verdana, arial, helvetica, "MS Sans Serif", sans-serif; FONT-SIZE: 1 em; line-height: 1.6em;
+COLOR: #B07000; margin-top:0;}
+
+H2 {
+    FONT-FAMILY: Verdana, arial, helvetica, "MS Sans Serif", sans-serif; FONT-SIZE: 1 em; line-height: 1.4em; font-weight: normal;
+COLOR: #B07000}
+
+H3 {
+    FONT-FAMILY: Verdana, arial, helvetica, "MS Sans Serif", sans-serif; FONT-SIZE: 1 em; line-height: 1.4em; font-weight: normal;
+COLOR: #B07000}
+
+
+A {
+    TEXT-DECORATION: none
+}
+A:link {
+    COLOR: #A02020
+}
+A:visited {
+    COLOR: #A02020
+}
+A:hover {
+    COLOR: #AAAAAA
+}
+A:active {
+    COLOR: #222222
+}
+
+H3 A {
+     COLOR: #B0B0B0;  TEXT-DECORATION: none
+}
+H3 A:link {
+    COLOR: #703060
+}
+H3 A:visited {
+    COLOR: #555555
+
+}
+H3 A:hover {
+    COLOR: #AAAAAA
+}
+H3 A:active {
+    COLOR: #222222
+
+}
+#bodytext {
+TEXT-ALIGN: justify; MARGIN-TOP: 100px; MARGIN-RIGHT: 200px; MARGIN-LEFT:170px;line-height: 1.3em;font-size: 0.88em;
+COLOR: #303030;
+}
+
+
+
+#maintenance {
+MARGIN-RIGHT: 160px; MARGIN-LEFT:140px;MARGIN-RIGHT: 180px;TEXT-ALIGN: center; COLOR: #6674A3;font-size: 0.7em;
+}
+
+#footer {
+MARGIN-RIGHT: 160px; MARGIN-LEFT:140px;MARGIN-RIGHT: 180px; TEXT-ALIGN: center; COLOR: #6674A3;font-size: 0.7em;
+}
+#footer A {
+    COLOR: #222222;
+}
+#footer A:link {
+    COLOR: #555555;
+}
+#footer A:visited {
+    COLOR: #AAAAAA;
+}
+#footer A:hover {
+    COLOR: #222222;
+}
+#footer A:active {
+    COLOR: #E0B080;
+}
+TD {
+    FONT-SIZE: 0.9em;
+}

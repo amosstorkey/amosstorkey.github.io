@@ -1,0 +1,516 @@
+- title: "MFDT: Mean Field Dynamic Trees"
+  authors: [  N. J. Adams,  A. J. Storkey,  Z. Ghahramani,  C. K. I. Williams ]
+  published: "Proceedings of the International Conference on Pattern Recognition (ICPR2000)"
+  year: 2000
+  url: 
+- title: "Comparing Mean Field and Exact EM in Tree-Structured Belief Networks"
+  authors: [  N. J. Adams,  C. K. I. Williams,  A. J. Storkey ]
+  published: "Proceedings of Fourth International ICSC Symposium on Soft Computing and Intelligent Systems for Industry"
+  year: 2001
+  url: 
+- title: "Sparse Instrumental Variables (SPIV) for Genome-Wide Studies"
+  authors: [  F. V. Agakov,  P. McKeigue,  J. Krohn,  A. J. Storkey ]
+  published: "In Advances in Neural Information Processing Systems 23 (NIPS2010)"
+  year: 2010
+  url: 
+- title: "Discriminative Mixtures of Sparse Latent Fields for Stress Testing"
+  authors: [  F. V. Agakov,  P. Orchard,  A. J. Storkey ]
+  published: "Proceedings of AISTATS 2012"
+  year: 2012
+  url: 
+- title: "Tract shape modelling provides evidence of topological change in corpus callosum genu during normal ageing"
+  authors: [  M. Bastin,  J. P. Piatowski,  A. J. Storkey,  L. J. Brown,  A. M. Maclullich,  J. D. Clayden ]
+  published: "Neuroimage"
+  year: 2008
+  url: http://www.sciencedirect.com/science/article/pii/S105381190800774X
+- title: "A Modified Spreading Algorithm for Auto-association in Weightless Neural Networks"
+  authors: [  J.L.P. Castro C. Browne,  A. J. Storkey ]
+  published: "Proceedings of ICANN96"
+  year: 1996
+  url: 
+- title: "Automated assessment of tract similarity in group diffusion MRI data"
+  authors: [  J. D. Clayden,  M. E. Bastin,  A. J. Storkey ]
+  published: "Fourteenth annual meeting of ISMRM: Proc ISMRM 14"
+  year: 2006
+  url: 
+- title: "Improved Segmentation Reproducibility in Group Tractography Using a Quantitative Tract Similarity Measure."
+  authors: [  J. D. Clayden,  M. E. Bastin,  A. J. Storkey ]
+  published: "Neuroimage"
+  year: 2006
+  url: http://www.anc.ed.ac.uk/ amos/publications/ClaydenEtAl2006TractSimilarity.pdf
+- title: "TractoR: Magnetic Resonance Imaging and Tractography with R"
+  authors: [  J. D. Clayden,  S. Munoz Maniega,  A. J. Storkey,  M. D. King,  M. E. Bastin,  C. A. Clark ]
+  published: "Journal of Statistical Software"
+  year: 2011
+  url: 
+- title: "Probabilistic combination of tractography data from multiple seed points for white matter segmentation."
+  authors: [  J. D. Clayden,  A. J. Storkey,  M. E. Bastin ]
+  published: "Sixteenth annual meeting of ISMRM: Proc ISMRM 16"
+  year: 2008
+  url: 
+- title: "A comparison of seeding strategies for group tractography"
+  authors: [  J. D. Clayden,  A. J. Storkey,  M. E. Bastin ]
+  published: "Sixteenth annual meeting of ISMRM: Proc ISMRM 16"
+  year: 2008
+  url: 
+- title: "A Probabilistic Model-based Approach to Consistent White Matter Tract Segmentation"
+  authors: [  J. D. Clayden,  A. J. Storkey,  M. E. Bastin ]
+  published: "IEEE Transactions on Medical Imaging"
+  year: 2007
+  url: 
+- title: "A probabilistic model-based approach to consistent white matter tract segmentation"
+  authors: [  J. D. Clayden,  A. J. Storkey,  M. E. Bastin ]
+  published: "Joint scientific meeting of ISMRM-ESMRMB: Proc ISMRM 15"
+  year: 2007
+  url: 
+- title: "Reproducibility of tract segmentation between sessions using an unsupervised modelling-based approach"
+  authors: [  J. D. Clayden,  A. J. Storkey,  S. Munoz Maniega,  M. E. Bastin ]
+  published: "Neuroimage"
+  year: 2009
+  url: 
+- title: "The Grouped Author-Topic Model for Unsupervised Entity Resolution"
+  authors: [  A. Dai,  A. J. Storkey ]
+  published: "Proceedings of ICANN 2011"
+  year: 2011
+  url: 
+- title: "The Use of Data Mining for the Automatic Formation of Tactics"
+  authors: [  H. Duncan,  A. Bundy,  J. Levine,  A. J. Storkey,  M. Pollet ]
+  published: "Proceedings of the Workshop on Computer-Supported Mathematical Theory Development held at the Second International Joint Conference on Automated Reasoning (IJCAR-04)"
+  year: 2004
+  url: 
+- title: "Pitfalls of Thresholding Statistical Maps in Presurgical fMRI Mapping."
+  authors: [  K. Gorgolewski,  M. Bastin,  L. Rigolo,  H. A. Soleiman,  C. Pernet,  A. J. Storkey,  A. J. Golby ]
+  published: "Proc. Nineteenth annual meeting of ISMRM"
+  year: 2011
+  url: 
+- title: "Comparison Between FWE and FDR Corrections for Threshold Free Cluster Enhancement Maps."
+  authors: [  K. Gorgolewski,  A. J. Storkey,  M. E. Bastin,  C. Pernet ]
+  published: "17th Annual Meeting of the Organization for HumanBrain Mapping"
+  year: 2011
+  url: 
+- title: "Particle Smoothing in Continuous Time: a Fast Approach via Density Estimation"
+  authors: [  L. M. Murray,  A. J. Storkey ]
+  published: "IEEE Transactions on Signal Processing"
+  year: 2011
+  url: http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5654660
+- title: "Continuous Time Particle Filtering for fMRI"
+  authors: [  L. M. Murray,  A. J. Storkey ]
+  published: "Advances in Neural Information Processing (NIPS 2007)"
+  year: 2008
+  url: http://books.nips.cc/papers/files/nips20/NIPS2007_0557.pdf
+- title: "Discovering white matter structure beyond fractional anisotropy maps"
+  authors: [  J. Piatkowski,  A. J. Storkey,  M. E. Bastin ]
+  published: "Joint annual meeting of ISMRM and ESMRMB: Proc ISMRM 18"
+  year: 2010
+  url: 
+- title: "Estimating white matter tract volume in partial volume voxels with diffusion MRI"
+  authors: [  J. P. Piatkowski,  A. J. Storkey,  M. E. Bastin ]
+  published: "Seventeenth annual meeting of ISMRM: Proc ISMRM 17"
+  year: 2009
+  url: 
+- title: "Neuronal Adaptation for Sampling-Based Probabilistic Inference in Perceptual Bistability"
+  authors: [  D. P. Reichert,  P. Series,  A. J. Storkey ]
+  published: "Advances in Neural Information Processing Systems 24"
+  year: 2011
+  url: 
+- title: "A Hierarchical Generative Model of Recurrent Object-Based Attention in the Visual Cortex"
+  authors: [  D. P. Reichert,  P. Series,  A. J. Storkey ]
+  published: "Proceedings of ICANN 2011"
+  year: 2011
+  url: 
+- title: "Neuronal Adaptation for Sampling-Based Probabilistic Inference in Perceptual Bistability"
+  authors: [  D. P. Reichert,  P. Series,  A. J. Storkey ]
+  published: "Advances in Neural Information Processing Systems 24 (NIPS2011)"
+  year: 2011
+  url: 
+- title: "Hallucinations in Charles Bonnet Syndrome Induced by Homeostasis: a Deep Boltzmann Machine Model."
+  authors: [  D. P. Reichert,  P. Series,  A. J. Storkey ]
+  published: "Advances in Neural Information Processing Systems 23 (NIPS2010)"
+  year: 2010
+  url: http://books.nips.cc/papers/files/nips23/NIPS2010_0932.pdf
+- title: "A topic model for melodic sequences"
+  authors: [  A. Spiliopoulou,  A. J. Storkey ]
+  published: "Proceedings of ICML 2012"
+  year: 2012
+  url: 
+- title: "Comparing Probabilistic Models for Melodic Sequences"
+  authors: [  A. Spiliopoulou,  A. J. Storkey ]
+  published: "Proceedings of ECML PKDD 2011"
+  year: 2011
+  url: http://www.springerlink.com/content/l5787m187n50436x/
+- title: "Dynamic Trees: A Structured Variational Method Giving Efficient Propagation Rules"
+  authors: [  A. J. Storkey ]
+  published: "Uncertainty in Artificial Intelligence"
+  year: 2000
+  url: 
+- title: "When Training and Test Sets are Different: Characterising Learning Transfer"
+  authors: [  A. J. Storkey ]
+  published: "Dataset Shift in Machine Learning"
+  year: 2009
+  url: http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=11755
+- title: "Gaussian Processes for Switching Regimes"
+  authors: [  A. J. Storkey ]
+  published: "International Conference on Artificial Neural Networks (ICANN98)"
+  year: 1998
+  url: 
+- title: "Dynamic Structure Super-Resolution"
+  authors: [  A. J. Storkey ]
+  published: "Advances in Neural Information Processing Systems 15 (NIPS2002)"
+  year: 2003
+  url: http://books.nips.cc/papers/files/nips15/VS07.pdf
+- title: "Machine Learning Markets"
+  authors: [  A. J. Storkey ]
+  published: "Proceedings of Artificial Intelligence and Statistics"
+  year: 2011
+  url: http://jmlr.csail.mit.edu/proceedings/papers/v15/storkey11a/storkey11a.pdf
+- title: "Derivatives of the Likelihood of Structural Equation Models"
+  authors: [  A. J. Storkey ]
+  published: ""
+  year: 2007
+  url: 
+- title: "Generalised Propagation for Fast Fourier Transforms with Partial or Missing Data"
+  authors: [  A. J. Storkey ]
+  published: "Advanced Neural Information Processing Systems 16 (NIPS2003)"
+  year: 2004
+  url: http://www.anc.ed.ac.uk/ amos/publications/Storkey2004GeneralisedPropagationForFastFourierTransformsWithPartialOrMissingData.pdf
+- title: "Efficient Covariance Matrix Methods for Bayesian Gaussian Processes and Hopfield Neural Networks."
+  authors: [  A. J. Storkey ]
+  published: "PhD Thesis"
+  year: 1999
+  url: 
+- title: "Truncated Covariance Matrices and Toeplitz Methods in Gaussian Processes"
+  authors: [  A. J. Storkey ]
+  published: "ICANN99"
+  year: 1999
+  url: 
+- title: "Palimpsest Memories: A New High capacity Forgetful Learning Rule for Hopfield Networks"
+  authors: [  A. J. Storkey ]
+  published: "Report"
+  year: 1998
+  url: 
+- title: "Increasing the Capacity of the Hopfield Network without Sacrificing Functionality"
+  authors: [  A. J. Storkey ]
+  published: "Lecture Notes on Computer Science 1327 (ICANN97)"
+  year: 1997
+  url: 
+- title: "Fractals and Chaos in Traffic Flows"
+  authors: [  A. J. Storkey ]
+  published: "Msc Thesis"
+  year: 1995
+  url: 
+- title: "Cosine Transform Priors for Enhanced Decoding of Compressed Images"
+  authors: [  A. J. Storkey,  M. Allan ]
+  published: "Fifth International Conference on Intelligent Data Engineering and Automated Learning (IDEAL2004)"
+  year: 2004
+  url: http://www.anc.ed.ac.uk/ amos/publications/StorkeyAllan2004CosineTransformPriorsForEnhancedDecodingOfCompressedImages.pdf
+- title: "Cleaning Sky Survey Databases using Hough Transform and Renewal String Approaches."
+  authors: [  A. J. Storkey,  N. C. Hambly,  C. K. I. Williams,  R. G. Mann ]
+  published: "Monthly Notices of the Royal Astronomical Society"
+  year: 2004
+  url: http://www.anc.ed.ac.uk/ amos/publications/StorkeyHamblyWilliamsMann2003CleaningSkySurveyDatabasesUsingHoughTransformAndRenewalStringApproaches.pdf
+- title: "Renewal Strings for Cleaning Astronomical Databases"
+  authors: [  A. J. Storkey,  N. C. Hambly,  C. K. I. Williams,  R. G. Mann ]
+  published: "Uncertainty in Artificial Intelligence: Proceedings of the Nineteenth Conference (UAI-2003)"
+  year: 2003
+  url: 
+- title: "Isoelastic Agents and Wealth Updates in Machine Learning Markets"
+  authors: [  A. J. Storkey,  J. Millin,  K. J. Geras ]
+  published: "Proceedings of ICML 2012"
+  year: 2012
+  url: 
+- title: "Mixture regression for covariate shift"
+  authors: [  A. J. Storkey,  M. Sugiyama ]
+  published: "Advances in Neural Information Processing Systems 19 (NIPS2006)"
+  year: 2007
+  url: 
+- title: "The Basins of Attraction of a New Hopfield Learning Rule"
+  authors: [  A. J. Storkey,  R. Valabregue ]
+  published: "Neural Networks"
+  year: 1999
+  url: 
+- title: "A New Hopfield Learning Rule with High Capacity Storage of Correlated Patterns"
+  authors: [  A. J. Storkey,  R. Valabregue ]
+  published: "Electronics Letters"
+  year: 1997
+  url: 
+- title: "Image Modelling with Position-Encoding Dynamic Trees"
+  authors: [  A. J. Storkey,  C. K. I. Williams ]
+  published: "IEEE PAMI"
+  year: 2003
+  url: 
+- title: "Dynamic Positional Trees for Structural Image Analysis"
+  authors: [  A. J. Storkey,  C. K. I. Williams ]
+  published: "In Proceedings of AI and Statistics 2001"
+  year: 2001
+  url: 
+- title: "Probabilistic Inference for Solving Discrete and Continuous State Markov Decision Processes."
+  authors: [  M. Toussaint,  A. J. Storkey ]
+  published: "Proceedings of 23nd International Conference on Machine Learning (ICML 2006)"
+  year: 2006
+  url: 
+- title: "Expectation-Maximization Methods for Solving (PO)MDPs and Optimal Control Problems."
+  authors: [  M. Toussaint,  A. J. Storkey,  S. Harmeling ]
+  published: "Bayesian Time Series Models"
+  year: 2011
+  url: 
+- title: "Modelling motion primitives and their timing in biologically executed movements"
+  authors: [  B. Williams,  M. Toussaint,  A. J. Storkey ]
+  published: "Advances in Neural Information Processing 20 (NIPS2007)"
+  year: 2008
+  url: http://books.nips.cc/papers/files/nips20/NIPS2007_0665.pdf
+- title: "A primitive based generative model to infer timing information in unpartitioned handwriting data"
+  authors: [  B. Williams,  M. Toussaint,  A. J. Storkey ]
+  published: "Proceedings of IJCAI 2007"
+  year: 2007
+  url: http://www.aaai.org/Papers/IJCAI/2007/IJCAI07-181.pdf
+- title: "Extracting Motion Primitives from Natural Handwriting Data"
+  authors: [  B. Williams,  M. Toussaint,  A. J. Storkey ]
+  published: "Proceedings of the International Conference on Artificial Neural Networks (ICANN2006)"
+  year: 2006
+  url: 
+- title: "Cleaning Astronomical Databases using Hough Transforms and Renewal Strings"
+  authors: [  C. K. I. Williams,  A. J. Storkey,  N. C. Hambly,  R. G. Mann ]
+  published: "Proceedings of the Mathematical Methods in Scattering Theory and Biomedical Technology 6"
+  year: 2004
+  url: 
+- title: "Partial volume segmentation using super-resolution, structure maps and multi-scale processing"
+  authors: [  J. P. Withers,  M. E. Bastin,  A. J. Storkey ]
+  published: "Sixteenth annual meeting of ISMRM: Proc ISMRM 16 (2008)."
+  year: 2008
+  url:
+- title: "The 2005 PASCAL Visual Object Classes Challenge"
+  authors: [ M. Everingham, Others]
+  published: "Selected Proceedings of the first PASCAL Challenges Workshop LNAI"
+  year: 2006
+- title: "Scientific Data Mining, Integration and Visualisation"
+  authors: [ R. G. Mann, R. Williams, M. Atkinson , K. Brodlie, A.J. Storkey,  C. K. I. Williams ]
+  published: National E-Science Centre
+  year: 2002
+- title: "Learning Structural Equation Models for fMRI"
+  authors: [ A. J. Storkey, E. Simonotto, H. Whalley, S. Lawrie, L. Murray, D. McGonigle ]
+  published: "Advances in Neural Information Processing Systems 19 (NIPS 2006)"
+  year: 2007
+- title: "Probabilistic inference for solving (PO) MDPs"
+  authors: [  M. Toussaint, S. Harmeling, A.J. Storkey ]
+  published: Bayesian Time Series Models, Cambridge University Press
+  year: 2011
+- title: Asymptotically exact inference in differentiable generative models
+  authors: [M. Graham, A. J. Storkey]
+  type: journal
+  published: Electronic Journal of Statistics
+  year: 2017
+  month: 12
+  url: http://dx.doi.org/10.1214/17-EJS1340SI
+  abstract: >
+    Many generative models can be expressed as a differentiable function applied to input variables sampled from a known probability distribution. This framework includes both the generative component of learned parametric models such as variational autoencoders and generative adversarial networks, and also procedurally defined simulator models which involve only differentiable operations. Though the distribution on the input variables to such models is known, often the distribution on the output variables is only implicitly defined. We present a method for performing efficient Markov chain Monte Carlo inference in such models when conditioning on observations of the model output. For some models this offers an asymptotically exact inference method where approximate Bayesian computation might otherwise be employed. We use the intuition that computing conditional expectations is equivalent to integrating over a density defined on the manifold corresponding to the set of inputs consistent with the observed outputs. This motivates the use of a constrained variant of Hamiltonian Monte Carlo which leverages the smooth geometry of the manifold to move between inputs exactly consistent with observations. We validate the method by performing inference experiments in a diverse set of models.
+
+- title: Continuously tempered Hamiltonian Monte Carlo
+  authors: [M. Graham, A. J. Storkey]
+  type: conference
+  published: Proceedings of the 33rd Conference on Uncertainty in Artificial Intelligence (UAI)
+  year: 2017
+  month: 8
+  url: https://arxiv.org/abs/1704.03338
+  abstract: >
+    Hamiltonian Monte Carlo (HMC) is a powerful Markov chain Monte Carlo (MCMC) method for performing approximate inference in complex probabilistic models of continuous variables. In common with many MCMC methods, however, the standard HMC approach performs poorly in distributions with multiple isolated modes. We present a method for augmenting the Hamiltonian system with an extra continuous temperature control variable which allows the dynamic to bridge between sampling a complex target distribution and a simpler unimodal base distribution. This augmentation both helps improve mixing in multimodal targets and allows the normalisation constant of the target distribution to be estimated. The method is simple to implement within existing HMC code, requiring only a standard leapfrog integrator. We demonstrate experimentally that the method is competitive with annealed importance sampling and simulating tempering methods at sampling from challenging multimodal distributions and estimating their normalising constants.
+
+- title: Towards a Neural Statistician
+  authors: [H. Edwards, A. J. Storkey]
+  type: conference
+  published: Proceedings of the 6th International Conference on Learning Representations (ICLR)
+  year: 2017
+  month: 4
+  url: https://arxiv.org/abs/1606.02185
+  abstract: >
+    An efficient learner is one who reuses what they already know to tackle a new problem. For a machine learner, this means understanding the similarities amongst datasets. In order to do this, one must take seriously the idea of working with datasets, rather than datapoints, as the key objects to model. Towards this goal, we demonstrate an extension of a variational autoencoder that can learn a method for computing representations, or statistics, of datasets in an unsupervised fashion. The network is trained to produce statistics that encapsulate a generative model for each dataset. Hence the network enables efficient learning from new datasets for both unsupervised and supervised tasks. We show that we are able to learn statistics that can be used for: clustering datasets, transferring generative models to new datasets, selecting representative samples of datasets and classifying previously unseen classes. We refer to our model as a neural statistician, and by this we mean a neural network that can learn to compute summary statistics of datasets without supervision.
+
+- title: Asymptotically exact inference in differentiable generative models
+  authors: [M. Graham, A. J. Storkey]
+  type: conference
+  published: Proceedings of the 20th International Conference on Artificial Intelligence and Statistics (AISTATS)
+  year: 2017
+  month: 4
+  url: https://arxiv.org/abs/1605.07826
+  abstract: >
+    Many generative models can be expressed as a differentiable function of random inputs drawn from some simple probability density. This framework includes both deep generative architectures such as Variational Autoencoders and a large class of procedurally defined simulator models. We present a method for performing efficient MCMC inference in such models when conditioning on observations of the model output. For some models this offers an asymptotically exact inference method where Approximate Bayesian Computation might otherwise be employed. We use the intuition that inference corresponds to integrating a density across the manifold corresponding to the set of inputs consistent with the observed outputs. This motivates the use of a constrained variant of Hamiltonian Monte Carlo which leverages the smooth geometry of the manifold to coherently move between inputs exactly consistent with observations. We validate the method by performing inference tasks in a diverse set of models.
+
+- title: Censoring Representations with an Adversary
+  authors: [H. Edwards, A. J. Storkey]
+  type: conference
+  published: Proceedings of the 5th International Conference on Learning Representations (ICLR)
+  year: 2016
+  month: 3
+  url: https://arxiv.org/abs/1511.05897
+  abstract: >
+    In practice, there are often explicit constraints on what representations or decisions are acceptable in an application of machine learning. For example it may be a legal requirement that a decision must not favour a particular group. Alternatively it can be that that representation of data must not have identifying information. We address these two related issues by learning flexible representations that minimize the capability of an adversarial critic. This adversary is trying to predict the relevant sensitive variable from the representation, and so minimizing the performance of the adversary ensures there is little or no information in the representation about the sensitive variable. We demonstrate this adversarial approach on two problems: making decisions free from discrimination and removing private information from images. We formulate the adversarial model as a minimax problem, and optimize that minimax objective using a stochastic gradient alternate min-max optimizer. We demonstrate the ability to provide discriminant free representations for standard test problems, and compare with previous state of the art methods for fairness, showing statistically significant improvement across most cases. The flexibility of this method is shown via a novel problem: removing annotations from images, from unaligned training examples of annotated and unannotated images, and with no a priori knowledge of the form of annotation provided to the model.
+
+- title: Stochastic Parallel Block Coordinate Descent for Large-scale Saddle Point Problems
+  authors: [Z. Zhu, A. J. Storkey]
+  type: conference
+  published: Proceedings of the Thirtieth AAAI Conference on Artificial Intelligence (AAAI)
+  year: 2016
+  month: 2
+  url: https://arxiv.org/abs/1511.07294
+  abstract: >
+    We consider convex-concave saddle point problems with a separable structure and non-strongly convex functions. We propose an efficient stochastic block coordinate descent method using adaptive primal-dual updates, which enables flexible parallel optimization for large-scale problems. Our method shares the efficiency and flexibility of block coordinate descent methods with the simplicity of primal-dual methods and utilizing the structure of the separable convex-concave saddle point problem. It is capable of solving a wide range of machine learning applications, including robust principal component analysis, Lasso, and feature selection by group Lasso, etc. Theoretically and empirically, we demonstrate significantly better performance than state-of-the-art methods in all these applications.
+
+- title: Covariance-Controlled Adaptive Langevin Thermostat for Large-Scale Bayesian Sampling
+  authors: [X. Shang, Z. Zhu, B. Leimkuhler, A. J. Storkey]
+  type: conference
+  published: Advances in Neural Information Processing Systems (NIPS)
+  year: 2015
+  month: 12
+  url: https://arxiv.org/abs/1510.08692
+  abstract: >
+    Monte Carlo sampling for Bayesian posterior inference is a common approach used in machine learning. The Markov Chain Monte Carlo procedures that are used are often discrete-time analogues of associated stochastic differential equations (SDEs). These SDEs are guaranteed to leave invariant the required posterior distribution. An area of current research addresses the computational benefits of stochastic gradient methods in this setting. Existing techniques rely on estimating the variance or covariance of the subsampling error, and typically assume constant variance. In this article, we propose a covariance-controlled adaptive Langevin thermostat that can effectively dissipate parameter-dependent noise while maintaining a desired target distribution. The proposed method achieves a substantial speedup over popular alternative schemes for large-scale machine learning applications.
+
+- title: Adaptive stochastic primal-dual coordinate descent for separable saddle point problems
+  authors: [Z. Zhu, A. J. Storkey]
+  type: conference
+  published: Joint European Conference on Machine Learning and Knowledge Discovery in Databases.
+  year: 2015
+  month: 8
+  url: https://arxiv.org/abs/1506.04093
+  abstract: >
+    We consider a generic convex-concave saddle point problem with a separable structure, a form that covers a wide-ranged machine learning applications. Under this problem structure, we follow the framework of primal-dual updates for saddle point problems, and incorporate stochastic block coordinate descent with adaptive stepsizes into this framework. We theoretically show that our proposal of adaptive stepsizes potentially achieves a sharper linear convergence rate compared with the existing methods. Additionally, since we can select “mini-batch” of block coordinates to update, our method is also amenable to parallel processing for large-scale data. We apply the proposed method to regularized empirical risk minimization and show that it performs comparably or, more often, better than state-of-the-art methods on both synthetic and real-world data sets.
+
+- title: Multi-period Trading Prediction Markets with Connections to Machine Learning
+  authors: [J. Hu, A. J. Storkey]
+  type: conference
+  published: Proceedings of the 31st International Conference on Machine Learning (ICML)
+  year: 2014
+  month: 6
+  url: https://arxiv.org/abs/1403.0648
+  abstract: >
+    We present a new model for prediction markets, in which we use risk measures to model agents and introduce a market maker to describe the trading process. This specific choice on modelling tools brings us mathematical convenience. The analysis shows that the whole market effectively approaches a global objective, despite that the market is designed such that each agent only cares about its own goal. Additionally, the market dynamics provides a sensible algorithm for optimising the global objective. An intimate connection between machine learning and our markets is thus established, such that we could 1) analyse a market by applying machine learning methods to the global objective, and 2) solve machine learning problems by setting up and running certain markets.
+
+- title: Training Deep Convolutional Neural Networks to Play Go
+  authors: [C. Clark, A. J. Storkey]
+  type: conference
+  published: Proceedings of the 32nd International Conference on Machine Learning (ICML)
+  year: 2015
+  month: 6
+  url: https://arxiv.org/abs/1412.3409
+  abstract: >
+    Mastering the game of Go has remained a long standing challenge to the field of AI. Modern computer Go systems rely on processing millions of possible future positions to play well, but intuitively a stronger and more 'humanlike' way to play the game would be to rely on pattern recognition abilities rather then brute force computation. Following this sentiment, we train deep convolutional neural networks to play Go by training them to predict the moves made by expert Go players. To solve this problem we introduce a number of novel techniques, including a method of tying weights in the network to 'hard code' symmetries that are expect to exist in the target function, and demonstrate in an ablation study they considerably improve performance. Our final networks are able to achieve move prediction accuracies of 41.1% and 44.4% on two different Go datasets, surpassing previous state of the art on this task by significant margins. Additionally, while previous move prediction programs have not yielded strong Go playing programs, we show that the networks trained in this work acquired high levels of skill. Our convolutional neural networks can consistently defeat the well known Go program GNU Go, indicating it is state of the art among programs that do not use Monte Carlo Tree Search. It is also able to win some games against state of the art Go playing program Fuego while using a fraction of the play time. This success at playing Go indicates high level principles of the game were learned.
+
+- title: The supervised hierarchical Dirichlet process
+  authors: [A. M. Dai, A. J. Storkey]
+  type: journal
+  published: IEEE Transactions on Pattern Analysis and Machine Intelligence (Special Issue on Bayesian Nonparametrics)
+  year: 2014
+  month: 4
+  url: https://arxiv.org/abs/1412.5236
+  abstract: >
+    We propose the supervised hierarchical Dirichlet process (sHDP), a nonparametric generative model for the joint distribution of a group of observations and a response variable directly associated with that whole group. We compare the sHDP with another leading method for regression on grouped data, the supervised latent Dirichlet allocation (sLDA) model. We evaluate our method on two real-world classification problems and two real-world regression problems. Bayesian nonparametric regression models based on the Dirichlet process, such as the Dirichlet process-generalised linear models (DP-GLM) have previously been explored; these models allow flexibility in modelling nonlinear relationships. However, until now, Hierarchical Dirichlet Process (HDP) mixtures have not seen significant use in supervised problems with grouped data since a straightforward application of the HDP on the grouped data results in learnt clusters that are not predictive of the responses. The sHDP solves this problem by allowing for clusters to be learnt jointly from the group structure and from the label assigned to each group.
+
+- title: Series Expansion Approximations of Brownian Motion for Non-Linear Kalman Filtering of Diffusion Processes
+  authors: [S. Lyons, S. Särkkä, A. J. Storkey]
+  type: journal
+  published: IEEE Transactions on Signal Processing
+  year: 2014
+  month: 3
+  url: https://arxiv.org/abs/1302.5324
+  abstract: >
+    In this paper, we describe a novel application of sigma-point methods to continuous-discrete filtering. In principle, the nonlinear continuous- discrete filtering problem can be solved exactly. In practice, the solution contains terms that are computationally intractible. Assumed density filtering methods attempt to match statistics of the filtering distribution to some set of more tractible probability distributions. We describe a novel method that decomposes the Brownian motion driving the signal in a generalised Fourier series, which is truncated after a number of terms. This approximation to Brownian can be described using a relatively small number of Fourier coefficients, and allows us to compute statistics of the filtering distribution with a single application of a sigma-point method. Assumed density filters that exist in the literature usually rely on discretisation of the signal dynamics followed by iterated application of a sigma point transform (or a limiting case thereof). Iterating the transform in this manner can lead to loss of information about the filtering distri- bution in highly nonlinear settings. We demonstrate that our method is better equipped to cope with such problems.
+
+- title: Isoelastic Agents and Wealth Updates in Machine Learning Markets
+  authors: [A. J. Storkey, J. Millin, K. Geras]
+  type: conference
+  published: Proceedings of the 29th International Conference on Machine Learning (ICML)
+  year: 2012
+  month: 6
+  url: https://arxiv.org/abs/1206.6443
+  abstract: >
+    Recently, prediction markets have shown considerable promise for developing flexible mechanisms for machine learning. In this paper, agents with isoelastic utilities are considered. It is shown that the costs associated with homogeneous markets of agents with isoelastic utilities produce equilibrium prices corresponding to alpha-mixtures, with a particular form of mixing component relating to each agent's wealth. We also demonstrate that wealth accumulation for logarithmic and other isoelastic agents (through payoffs on prediction of training targets) can implement both Bayesian model updates and mixture weight updates by imposing different market payoff structures. An iterative algorithm is given for market equilibrium computation. We demonstrate that inhomogeneous markets of agents with isoelastic utilities outperform state of the art aggregate classifiers such as random forests, as well as single classifiers (neural networks, decision trees) on a number of machine learning benchmarks, and show that isoelastic combination methods are generally better than their logarithmic counterparts.
+
+- title: A Topic Model for Melodic Sequences
+  authors: [A. Spiliopoulou, A. J. Storkey]
+  type: conference
+  published: Proceedings of the 29th International Conference on Machine Learning (ICML)
+  year: 2012
+  month: 6
+  url: https://arxiv.org/abs/1206.6441
+  abstract: >
+    We examine the problem of learning a probabilistic model for melody directly from musical sequences belonging to the same genre. This is a challenging task as one needs to capture not only the rich temporal structure evident in music, but also the complex statistical dependencies among different music components. To address this problem we introduce the Variable-gram Topic Model, which couples the latent topic formalism with a systematic model for contextual information. We evaluate the model on next-step prediction. Additionally, we present a novel way of model evaluation, where we directly compare model samples with data sequences using the Maximum Mean Discrepancy of string kernels, to assess how close is the model distribution to the data distribution. We show that the model has the highest performance under both evaluation measures when compared to LDA, the Topic Bigram and related non-topic models.
+
+- title: Comparing Probabilistic Models for Melodic Sequences
+  authors: [A. Spiliopoulou, A. J. Storkey]
+  type: conference
+  published: Proceedings of the ECML-PKDD
+  year: 2011
+  month: 9
+  url: https://arxiv.org/abs/1109.6804
+  abstract: >
+    Modelling the real world complexity of music is a challenge for machine learning. We address the task of modeling melodic sequences from the same music genre. We perform a comparative analysis of two probabilistic models; a Dirichlet Variable Length Markov Model (Dirichlet-VMM) and a Time Convolutional Restricted Boltzmann Machine (TC-RBM). We show that the TC-RBM learns descriptive music features, such as underlying chords and typical melody transitions and dynamics. We assess the models for future prediction and compare their performance to a VMM, which is the current state of the art in melody generation. We show that both models perform significantly better than the VMM, with the Dirichlet-VMM marginally outperforming the TC-RBM. Finally, we evaluate the short order statistics of the models, using the Kullback-Leibler divergence between test sequences and model samples, and show that our proposed methods match the statistics of the music genre significantly better than the VMM.
+
+- title: Machine Learning Markets
+  authors: [A. J. Storkey]
+  type: conference
+  published: Proceedings of the Fourteenth International Conference on Artificial Intelligence and Statistics (AISTATS)
+  year: 2011
+  month: 4
+  url: https://arxiv.org/abs/1106.4509
+  abstract: >
+    Prediction markets show considerable promise for developing flexible mechanisms for machine learning. Here, machine learning markets for multivariate systems are defined, and a utility-based framework is established for their analysis. This differs from the usual approach of defining static betting functions. It is shown that such markets can implement model combination methods used in machine learning, such as product of expert and mixture of expert approaches as equilibrium pricing models, by varying agent utility functions. They can also implement models composed of local potentials, and message passing methods. Prediction markets also allow for more flexible combinations, by combining multiple different utility functions. Conversely, the market mechanisms implement inference in the relevant probabilistic models. This means that market mechanism can be utilized for implementing parallelized model building and inference for probabilistic modelling.
+
+- title: Dynamic Trees - A Structured Variational Method Giving Efficient Propagation Rules
+  authors: [A. J. Storkey]
+  type: conference
+  published: Proceedings of the Sixteenth Conference on Uncertainty in Artificial Intelligence (UAI)
+  year: 2000
+  month: 6
+  url: https://arxiv.org/abs/1301.3895
+  abstract: >
+    Dynamic trees are mixtures of tree structured belief networks. They solve some of the problems of fixed tree networks at the cost of making exact inference intractable. For this reason approximate methods such as sampling or mean field approaches have been used. However, mean field approximations assume a factorized distribution over node states. Such a distribution seems unlickely in the posterior, as nodes are highly correlated in the prior. Here a structured variational approach is used, where the posterior distribution over the non-evidential nodes is itself approximated by a dynamic tree. It turns out that this form can be used tractably and efficiently. The result is a set of update rules which can propagate information through the network to obtain both a full variational approximation, and the relevant marginals. The progagtion rules are more efficient than the mean field approach and give noticeable quantitative and qualitative improvement in the inference. The marginals calculated give better approximations to the posterior than loopy propagation on a small toy problem.
+
+- title: DNN's Sharpest Directions Along the SGD Trajectory
+  authors: [S. Jastrzębski, Z. Kenton, N. Ballas, A. Fischer, Y. Bengio, A. J. Storkey]
+  year: 2018
+  type: workshop
+  month: 7
+  published: Modern Trends in Nonconvex Optimization for Machine Learning Workshop, ICML 
+  url: https://arxiv.org/abs/1807.05031
+  abstract: >
+    Recent work has identified that using a high learning rate or a small batch size for Stochastic Gradient Descent (SGD) based training of deep neural networks encourages finding flatter minima of the training loss towards the end of training. Moreover, measures of the flatness of minima have been shown to correlate with good generalization performance. Extending this previous work, we investigate the loss curvature through the Hessian eigenvalue spectrum in the early phase of training and find an analogous bias: even at the beginning of training, a high learning rate or small batch size influences SGD to visit flatter loss regions. In addition, the evolution of the largest eigenvalues appears to always follow a similar pattern, with a fast increase in the early phase, and a decrease or stabilization thereafter, where the peak value is determined by the learning rate and batch size. Finally, we find that by altering the learning rate just in the direction of the eigenvectors associated with the largest eigenvalues, SGD can be steered towards regions which are an order of magnitude sharper but correspond to models with similar generalization, which suggests the curvature of the endpoint found by SGD is not predictive of its generalization properties.
+
+- title: Three Factors Influencing Minima in SGD
+  authors: [S. Jastrzębski, Z. Kenton, D. Arpit, N. Ballas, A. Fischer, Y. Bengio, A. J. Storkey]
+  year: 2018
+  month: 10
+  type: conference
+  published: To appear in the Proceedings of the 27th International Conference on Artificial Neural Networks (ICANN)
+  url: http://arxiv.org/abs/1711.04623
+  abstract: >
+    We investigate the dynamical and convergent properties of stochastic gradient descent (SGD) applied to Deep Neural Networks (DNNs). Characterizing the relation between learning rate, batch size and the properties of the final minima, such as width or generalization, remains an open question. In order to tackle this problem we investigate the previously proposed approximation of SGD by a stochastic differential equation (SDE). We theoretically argue that three factors - learning rate, batch size and gradient covariance - influence the minima found by SGD. In particular we find that the ratio of learning rate to batch size is a key determinant of SGD dynamics and of the width of the final minima, and that higher values of the ratio lead to wider minima and often better generalization. We confirm these findings experimentally. Further, we include experiments which show that learning rate schedules can be replaced with batch size schedules and that the ratio of learning rate to batch size is an important factor influencing the memorization process.
+
+- title: Data Augmentation Generative Adversarial Networks
+  authors: [A. Antoniou, A. J. Storkey, H. Edwards]
+  year: 2017
+  month: 11
+  type: preprint
+  published: arXiv
+  url: https://arxiv.org/abs/1711.04340
+  abstract: >
+    Effective training of neural networks requires much data. In the low-data regime, parameters are underdetermined, and learnt networks generalise poorly. Data Augmentation alleviates this by using existing data more effectively. However standard data augmentation produces only limited plausible alternative data. Given there is potential to generate a much broader set of augmentations, we design and train a generative model to do data augmentation. The model, based on image conditional Generative Adversarial Networks, takes data from a source domain and learns to take any data item and generalise it to generate other within-class data items. As this generative process does not depend on the classes themselves, it can be applied to novel unseen classes of data. We show that a Data Augmentation Generative Adversarial Network (DAGAN) augments standard vanilla classifiers well. We also show a DAGAN can enhance few-shot learning systems such as Matching Networks. We demonstrate these approaches on Omniglot, on EMNIST having learnt the DAGAN on Omniglot, and VGG-Face data. In our experiments we can see over 13% increase in accuracy in the low-data regime experiments in Omniglot (from 69% to 82%), EMNIST (73.9% to 76\) and VGG-Face (4.5% to 12%); in Matching Networks for Omniglot we observe an increase of 0.5% (from 96.9% to 97.4%) and an increase of 1.8% in EMNIST (from 59.5% to 61.3%).
+  
+- title: "Moonshine: Distilling with Cheap Convolutions"
+  authors: [E. J. Crowley, G. Gray, A. J. Storkey]
+  year: 2017
+  month: 11
+  type: preprint
+  published: arXiv
+  url: https://arxiv.org/abs/1711.02613
+  abstract: >
+    Many engineers wish to deploy modern neural networks in memory-limited settings; but the development of flexible methods for reducing memory use is in its infancy, and there is little knowledge of the resulting cost-benefit. We propose structural model distillation for memory reduction using a strategy that produces a student architecture that is a simple transformation of the teacher architecture: no redesign is needed, and the same hyperparameters can be used. Using attention transfer, we provide Pareto curves/tables for distillation of residual networks with four benchmark datasets, indicating the memory versus accuracy payoff. We show that substantial memory savings are possible with very little loss of accuracy, and confirm that distillation provides student network performance that is better than training that student architecture directly on data. 
+
+- title: Bayesian Inference in Sparse Gaussian Graphical Models
+  authors: [P. Orchard, F. Agakov, A. J. Storkey]
+  year: 2013
+  type: techreport
+  published: arXiv
+  month: 9
+  url: https://arxiv.org/abs/1309.7311
+  abstract: >
+    One of the fundamental tasks of science is to find explainable relationships between observed phenomena. One approach to this task that has received attention in recent years is based on probabilistic graphical modelling with sparsity constraints on model structures. In this paper, we describe two new approaches to Bayesian inference of sparse structures of Gaussian graphical models (GGMs). One is based on a simple modification of the cutting-edge block Gibbs sampler for sparse GGMs, which results in significant computational gains in high dimensions. The other method is based on a specific construction of the Hamiltonian Monte Carlo sampler, which results in further significant improvements. We compare our fully Bayesian approaches with the popular regularisation-based graphical LASSO, and demonstrate significant advantages of the Bayesian treatment under the same computing costs. We apply the methods to a broad range of simulated data sets, and a real-life financial data set.
+
